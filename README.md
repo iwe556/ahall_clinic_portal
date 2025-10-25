@@ -1,8 +1,7 @@
-// FILE: README.md
 # Clinic Portal (React, Vite)
 
 
-Simple role-based React demo for a school clinic hackathon.
+Simple role-based React demo for a school  hackathon.
 
 
 ## Quick start
